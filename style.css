@@ -1,0 +1,44 @@
+div{ 
+    color:blue ;
+}
+
+#satauri { 
+    font-size: 40px;
+    color:#9d0208 ;
+    text-align: center;
+    font-family: impact ;
+}
+
+#addsatauri{ 
+    color: #dc2f02;
+    letter-spacing: 10px;
+}
+.qvesatauri{ 
+    color: #faa307;
+    text-align: center;
+    font-size: 30px;
+}
+#logo{
+     font-size: 70px;
+     text-align: center;
+     color: #001219;
+}
+#statia { 
+    background-color: #e9d8a6;
+    font-size: 25px;
+    color: #001219;
+    text-align: justify;
+    width: 60%;
+    padding: 30px;
+
+}
+#statiissatauri{  
+    text-align: center;
+    color: #001524;
+    letter-spacing: 15px;
+    font-family: "BPG Rioni Vera", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.simbol{
+     color: #001524;
+     font-size: 50px;
+}
